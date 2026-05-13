@@ -16,3 +16,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-04-22
 - Fixed off-by-one error in loop
+
+## 2026-05-13
+- Pinned dependency versions for reproducibility
+- Consolidated duplicate helper functions
+- Resolved TODO items from previous session
