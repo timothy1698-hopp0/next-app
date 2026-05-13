@@ -21,3 +21,8 @@ Personal development log — notes, findings, and ongoing work.
 - Pinned dependency versions for reproducibility
 - Consolidated duplicate helper functions
 - Resolved TODO items from previous session
+
+## 2026-05-13
+- Verified API endpoint response schema
+- Reviewed open issues, added labels
+- Tidied up project structure
